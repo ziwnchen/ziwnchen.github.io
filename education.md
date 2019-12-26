@@ -1,8 +1,8 @@
 ---
-layout: post
-published: false
-title: education
+layout: page
+title: Education
 ---
+
 ## Graduate
 ### M.A. in Computational Social Science
 ### University of Chicago (2019-2021)
@@ -10,11 +10,6 @@ title: education
 - Core Courses
 - Honors
 - Research Experiences
-
-
-
-
-    
 
 
 ## Undergraduate
