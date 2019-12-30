@@ -1,17 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Ziwen Chen
+subtitle: Geographer & Computational Social Scientist
+use-site-title: true
 ---
 
-### Introduction
-
-CV download
-
-### Skills
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
-### Hobbies
-
-### Other
+Welcome! I’m Ziwen Chen. I am a graduate student at the University of Chicago. I’m currently working in the Knowledge Lab of Prof. James Evans. I received a B.Sc in Geographical Information Science. My area of interest includes Urban Informatics, Computational Sociology, and Data Science for Social Good.
