@@ -4,7 +4,7 @@
 title: Ziwen Chen
 
 # Short description of your site
-description: Ziwen's Website
+description: Geography & Computational Social Science
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -55,9 +55,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/BubbleNebula.jpg"
+# navbar-img: "/img/bgimage.jpg"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/BubbleNebula.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -160,7 +160,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
