@@ -20,7 +20,7 @@ description: Geography & Computational Social Science
 
 # List of links in the navigation bar
 navbar-links:
-  Education: "education"
+  Bio: "education"
   Projects: "projects"
   Resume: "resume/Ziwen_CV.pdf"
   
