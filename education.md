@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bio
+published: true
 ---
 
 ## Education
@@ -17,9 +18,13 @@ title: Bio
 
 + **cGPA**: 3.9/4.0
 + **Core Courses**:
- + Geography: 
+ + GIS: &nbsp;&nbsp; Economic Geography, Urban Planning, Spatial Visualization, Spatial Analysis and Geostatistics, Cartography, Remote Sensing and Image Processing, Geomatics, Intelligent transportation system, Mobile GIS, WebGIS
   
- + Computer Science:
+ + Computer Science: &nbsp;&nbsp; Object-Oriented Programming, C Programming, Graphic Algorithm, Database, Data Structure, Algorithm, Web Service
+ 
+ + Math:
+ 	Linear Algebra, Calculus, Probability Theory and Statistics, Discrete Mathematics
+ 
   
 + Honors
 
