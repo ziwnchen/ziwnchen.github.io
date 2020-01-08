@@ -18,14 +18,16 @@ published: true
 
 + **cGPA**: 3.9/4.0
 + **Core Courses**:
- + GIS: &nbsp;&nbsp; Economic Geography, Urban Planning, Spatial Visualization, Spatial Analysis and Geostatistics, Cartography, Remote Sensing and Image Processing, Geomatics, Intelligent transportation system, Mobile GIS, WebGIS
+ * **GIS**: Economic Geography, Urban Planning, Spatial Visualization, Spatial Analysis and Geostatistics, Cartography, Remote Sensing and Image Processing, Geomatics, Intelligent transportation system, Mobile GIS, WebGIS
   
- + Computer Science: &nbsp;&nbsp; Object-Oriented Programming, C Programming, Graphic Algorithm, Database, Data Structure, Algorithm, Web Service
+ * **Computer Science**: Object-Oriented Programming, C Programming, Graphic Algorithm, Database, Data Structure, Algorithm, Web Service
  
- + Math:
- 	Linear Algebra, Calculus, Probability Theory and Statistics, Discrete Mathematics
+ * **Math**: Linear Algebra, Calculus, Probability Theory and Statistics, Discrete Mathematics
  
   
-+ Honors
++ **Honors**:
+ * 
+ * 
+ * 
 
 ## Skills
