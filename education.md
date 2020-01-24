@@ -10,7 +10,7 @@ published: true
 *University of Chicago (2019-2021)*
 
 + **Core Courses**: Network Analysis, Advanced Programming, Fundamentals of Deep Learning, Computational Content Analysis
-+ Research Assitant at the [Knowledge lab](https://www.knowledgelab.org/people/knowledge_lab/) in University of Chicago.
++ Research Assitant at the [Knowledge lab](https://www.knowledgelab.org/people/detail/ziwen_chen/) in University of Chicago.
 
 
 ### B.Sc. in Geographical Information Science
