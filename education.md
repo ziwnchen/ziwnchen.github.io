@@ -12,7 +12,7 @@ published: true
 + **Core Courses**: Network Analysis, Advanced Programming, Fundamentals of Deep Learning, Computational Content Analysis
 + Research Assitant at the [Knowledge lab](https://www.knowledgelab.org/people/knowledge_lab/) in University of Chicago.
 
-<br\>
+
 ### B.Sc. in Geographical Information Science
 *Wuhan University (2015-2019)*
 
@@ -27,10 +27,10 @@ published: true
 ---
 
 ## Skills
-- **Programming**: C(proficient), Python(proficient), R, C++, C#, Java
+- **Programming**: C (proficient), Python (proficient), R, C++, C#, Java
 
 - **Software**: ArcGIS, GeoDa, Mapbox, SPSS, Stata, Photoshop
 
-- **Research**: Parallel Programming(OpenMP/Spark), Spatial Analysis/Geostatistics, Social Network Analysis, Web Scrapping, Visualization, 
+- **Research**: Parallel Programming (OpenMP/Spark), Spatial Analysis/Geostatistics, Social Network Analysis, Web Scrapping, Visualization
 
 - **Language**: Mandarin (native), English (TOEFL 114)
