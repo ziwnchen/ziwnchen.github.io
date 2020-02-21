@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ziwen Chen
-subtitle: Geographer & Computational Social Scientist
+subtitle: Geography & Computational Social Science
 use-site-title: true
 ---
 
